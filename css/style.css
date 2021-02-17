@@ -1941,6 +1941,8 @@ ul.social-icons li a{
 	}
 	.img img {
 		width: 100%;
+		height: auto;
+		object-fit: cover;
 	}
 	.info h3, .info h4 {
 		font-size: 3.2em;
@@ -2669,3 +2671,14 @@ ul.social-icons li a{
 	}
 }
 /*--//responsive--*/
+
+.gallery-size {
+
+}
+.centerGallery {
+	text-align: -webkit-center;
+}
+
+/* 
+h2 { font-family: Courier New, monospace; font-size: 1em; margin: 1em 0 0.3em; } 
+img {  margin: 10px 0; } .narrow { width: 100px; height: 150px; } .fill { object-fit: fill; } .contain { object-fit: contain; } .cover { object-fit: cover; } .none { object-fit: none; } .scale-down { object-fit: scale-down; } */
