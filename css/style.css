@@ -64,11 +64,15 @@ label{
     float: left;
 }
 .logo-agileinfo h1 a {
-    font-family: 'Arizonia', cursive;
+    /* font-family:'Droid Sans', sans-serif; */
     color: #f70255;
     font-size: 1.7em;
-    text-transform: uppercase;
-    letter-spacing: 15px;
+    letter-spacing: 6px;
+	
+	/* color: #f70255; */
+    /* font-size: 6em;
+    letter-spacing: 6px; */
+    font-family: 'Arizonia', cursive;
 }
 .header-bottom-agile {
     padding: 0 3em;
@@ -1483,7 +1487,7 @@ p.para-agileits-w3layouts:nth-child(2) {
     font-size: 3em;
     font-family: 'Arizonia', cursive;
     color: #f70255;
-    letter-spacing: 10px;
+    letter-spacing: 6px;
 }
 .agile-logo {
     float:left;
